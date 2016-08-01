@@ -98,14 +98,14 @@
 
 * [Official Extensions](#)
   * [CLI automation - Aruba](#)
-  * [Ruby on Rails](#)
+  * [Ruby on Rails](docs/ruby-on-rails.md)
   * [Spring Framework](#)
   * [PicoContainer](#)
 * [3rd Party Extensions](#)
   * [IDEs/Text Editors](#)
   * [Watir](#)
   * [Selenium WebDriver](#)
-  * [Serenity](#)
+  * [Serenity](docs/serenity.md)
 
 ### Common Anti-Patterns
 
